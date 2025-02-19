@@ -2,7 +2,9 @@
 
 Welcome to my **Personal Portfolio**! This project is based on a **Figma template** [https://www.figma.com/design/GmlCWk6h5tMv8TM4ACfpm1/Portfolio-Template-%7C-Resume-Template-(Community)?node-id=0-1&p=f&t=ybolD7EzOjD6ZWJt-0] and is built using **HTML, CSS, and JavaScript**. The goal is to continuously improve and enhance this portfolio to showcase my skills and projects in a professional way.  
 
-🌟 **Live Demo:** [https://tiagolealfarias.github.io/Portfolio/]  
+
+🌟 **Live Demo:** [https://tiagolealfarias.github.io/Portfolio/]
+
 
 ---
 
