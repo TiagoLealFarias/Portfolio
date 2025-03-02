@@ -4,6 +4,15 @@
     padding: 0px;
     border: 0;
     box-sizing: border-box;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f6;
 }
 
 
@@ -15,6 +24,7 @@
     flex-direction: row;
     font-family: 'Inter', sans-serif;
     padding-bottom: 138px;
+    background-image: url(images/header/header-background-image.webp);
 }
 
 .header-one {
@@ -424,6 +434,10 @@ ul .close {
     border: 0px solid #F0F0F0;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease-in-out;
+}
+
+#james-image, #taslan-image, #tiana-image {
+    border-radius: 50px;
 }
 
 /**Education**/
